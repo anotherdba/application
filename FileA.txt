@@ -1,3 +1,3 @@
 This is FileA
 
-Thisi si a change to the fileA
+This is a change to the fileA
